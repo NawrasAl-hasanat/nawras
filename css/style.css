@@ -1785,6 +1785,9 @@ body.dark .loader_line:after {
     float: left;
     position: relative
 }
+.iknow_tm_resume_title2 {
+ margin-bottom:2vh;
+}
 
 .iknow_tm_resume_title h3 {
     font-size: 36px;
